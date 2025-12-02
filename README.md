@@ -1,0 +1,1 @@
+Campus Genie is an AI-powered WhatsApp chatbot that automates student queries using NLP and a smart backend system. It offers quick access to essential academic data without needing complex college portals.
